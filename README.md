@@ -1,3 +1,3 @@
 # RGBA
 
-Unit tests and RGBA structure for storing pixels.
+Unit tests and RGBA structure for storing the pixels.
