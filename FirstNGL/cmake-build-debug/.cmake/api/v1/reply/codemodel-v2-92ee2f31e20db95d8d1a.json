@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FirstNGLBuild",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstNGL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstNGL-Debug-49567d3973df5b88c960.json",
+					"name" : "FirstNGL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstNGLCopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstNGLCopyShaders-Debug-23a8013c30d099973cb3.json",
+					"name" : "FirstNGLCopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstNGL_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstNGL_autogen-Debug-e04cab8f7bb87cef6b99.json",
+					"name" : "FirstNGL_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstNGL_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstNGL_autogen_timestamp_deps-Debug-b85bb77be0d5f64dc0f1.json",
+					"name" : "FirstNGL_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rahul/Desktop/ASE_UniWork/FirstNGL/cmake-build-debug",
+		"source" : "/home/rahul/Desktop/ASE_UniWork/FirstNGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

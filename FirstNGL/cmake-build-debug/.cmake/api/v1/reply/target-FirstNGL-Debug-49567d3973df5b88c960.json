@@ -1,0 +1,573 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "FirstNGL"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_add_executable",
+			"add_executable",
+			"link_directories",
+			"_find_package",
+			"find_package",
+			"set_target_properties",
+			"include",
+			"set_property",
+			"_populate_Widgets_target_properties",
+			"target_link_libraries",
+			"add_compile_definitions",
+			"include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/home/rahul/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"CMakeLists.txt",
+			"/home/rahul/NGL/NGLConfig.cmake",
+			"/home/rahul/vcpkg/installed/x64-linux/share/freetype/freetype-targets.cmake",
+			"/home/rahul/vcpkg/installed/x64-linux/share/freetype/freetype-config.cmake",
+			"/home/rahul/vcpkg/installed/x64-linux/share/freetype/vcpkg-cmake-wrapper.cmake",
+			"/home/rahul/vcpkg/installed/x64-linux/share/gl3w/gl3wConfig.cmake",
+			"/usr/lib/x86_64-linux-gnu/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake",
+			"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+			"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 598,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 859,
+				"parent" : 3
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 60,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 14,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 813,
+				"parent" : 7
+			},
+			{
+				"file" : 5,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 5,
+				"parent" : 9
+			},
+			{
+				"file" : 4,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 3,
+				"parent" : 11
+			},
+			{
+				"file" : 3,
+				"parent" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 61,
+				"parent" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 5,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 859,
+				"parent" : 15
+			},
+			{
+				"file" : 6,
+				"parent" : 16
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 60,
+				"parent" : 17
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 859,
+				"parent" : 19
+			},
+			{
+				"file" : 8,
+				"parent" : 20
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 28,
+				"parent" : 21
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 859,
+				"parent" : 22
+			},
+			{
+				"file" : 7,
+				"parent" : 23
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 252,
+				"parent" : 24
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 111,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 859,
+				"parent" : 26
+			},
+			{
+				"file" : 9,
+				"parent" : 27
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 254,
+				"parent" : 28
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 213,
+				"parent" : 28
+			},
+			{
+				"command" : 7,
+				"file" : 9,
+				"line" : 57,
+				"parent" : 30
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 17,
+				"parent" : 5
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 18,
+				"parent" : 5
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 44,
+				"parent" : 5
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 32,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 33,
+					"define" : "ADDLARGEMODELS"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "GLM_ENABLE_EXPERIMENTAL"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_WIDGETS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/rahul/Desktop/ASE_UniWork/FirstNGL/cmake-build-debug/FirstNGL_autogen/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/rahul/Desktop/ASE_UniWork/FirstNGL/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/rahul/NGL/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/rahul/vcpkg/installed/x64-linux/include"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 32,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtOpenGL"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					32
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "FirstNGL_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "FirstNGL_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "FirstNGL::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-L/home/rahul/NGL/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/rahul/NGL/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lNGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libfmtd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libfreetyped.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libgl3w.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lNGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libz.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libbz2d.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libpng16d.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libz.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libbrotlidec.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/home/rahul/vcpkg/installed/x64-linux/debug/lib/libbrotlicommon.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLU.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5OpenGL.so.5.15.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "FirstNGL",
+	"nameOnDisk" : "FirstNGL",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				5
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/FirstNGL_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"path" : "src/NGLScene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"path" : "src/NGLSceneMouseControls.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"path" : "include/NGLScene.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/FirstNGL_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/FirstNGL_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}
